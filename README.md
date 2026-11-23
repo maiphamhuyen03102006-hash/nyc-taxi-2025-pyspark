@@ -3,7 +3,7 @@
 ## 1. Tổng quan dự án
 Dự án thực hiện tiền xử lý, làm sạch dữ liệu và phân tích mô tả dữ liệu chuyến đi **NYC Yellow Taxi năm 2025** trên **Google Colab** sử dụng **PySpark**, sau đó trực quan hóa kết quả bằng **Pandas**, **Matplotlib** và **Seaborn**.
 
-- **Notebook chính:** `Untitled12.ipynb`
+- **Notebook chính:** `Đồ_án.ipynb`
 - **Nền tảng chạy:** Google Colab + Google Drive + PySpark (`SparkSession`)
 - **Định dạng lưu trữ dữ liệu sạch:** Apache Parquet (`taxi_clean_2025`, gồm 12 phân vùng)
 
